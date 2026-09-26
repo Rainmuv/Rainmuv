@@ -47,7 +47,6 @@ Tools
 |---|---|
 | [**SpaceMissionControl**](https://github.com/Rainmuv/SpaceMissionControl) | C# console app (probe fleet / mission control) — practicing refactoring, debugging, and code review |
 | [**TrackerExpenses**](https://github.com/Rainmuv/TrackerExpenses) | Expense tracker built in C# |
-| [**ShopCore**](https://github.com/Rainmuv/ShopCore) | Learning project — core logic for an online store, C# |
 | [**CoffeeShift-C-**](https://github.com/Rainmuv/CoffeeShift-C-) | C# learning project |
 
 ---
