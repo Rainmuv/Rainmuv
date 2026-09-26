@@ -27,7 +27,7 @@ Frontend
 
 Tools
 
-<p align="left"> <img src="https://img.shields.io/badge/Git-1a1a1a?style=for-the-badge&logo=git&logoColor=white"/> <img src="https://img.shields.io/badge/GitHub-1a1a1a?style=for-the-badge&logo=github&logoColor=white"/> <img src="https://img.shields.io/badge/Fork-1a1a1a?style=for-the-badge"/> <img src="https://img.shields.io/badge/VS_Code-1a1a1a?style=for-the-badge&logo=visualstudiocode&logoColor=white"/> <img src="https://img.shields.io/badge/Neovim-1a1a1a?style=for-the-badge&logo=neovim&logoColor=white"/> <img src="https://img.shields.io/badge/PostgreSQL-1a1a1a?style=for-the-badge&logo=postgresql&logoColor=white"/> <img src="https://img.shields.io/badge/Insomnia-1a1a1a?style=for-the-badge&logo=insomnia&logoColor=white"/> <img src="https://img.shields.io/badge/SSMS-1a1a1a?style=for-the-badge&logo=microsoftsqlserver&logoColor=white"/> </p>
+<p align="left"> <img src="https://img.shields.io/badge/Git-1a1a1a?style=for-the-badge&logo=git&logoColor=white"/> <img src="https://img.shields.io/badge/GitHub-1a1a1a?style=for-the-badge&logo=github&logoColor=white"/> <img src="https://img.shields.io/badge/Fork-1a1a1a?style=for-the-badge"/> <img src="https://img.shields.io/badge/VS_Code-1a1a1a?style=for-the-badge&logo=visualstudiocode&logoColor=white"/> <img src="https://img.shields.io/badge/PostgreSQL-1a1a1a?style=for-the-badge&logo=postgresql&logoColor=white"/> <img src="https://img.shields.io/badge/Insomnia-1a1a1a?style=for-the-badge&logo=insomnia&logoColor=white"/> <img src="https://img.shields.io/badge/SSMS-1a1a1a?style=for-the-badge&logo=microsoftsqlserver&logoColor=white"/> </p>
 
 ---
 
