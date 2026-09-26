@@ -9,9 +9,9 @@ Based in Gothenburg, Sweden.
 
 ### About me
 
-- 📍 Based in Gothenburg, Sweden
-- 💼 Came into software development from a background in logistics/operations
-- 🎯 Primarily focused on backend development, also comfortable across the frontend stack
+- Based in Gothenburg, Sweden
+- Came into software development from a background in logistics/operations
+- Primarily focused on backend development, also comfortable across the frontend stack
 
 ---
 
