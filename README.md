@@ -19,15 +19,15 @@ Based in Gothenburg, Sweden.
 
 Backend
 
-<p align="left"> <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white"/> <img src="https://img.shields.io/badge/ASP.NET_Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white"/> <img src="https://img.shields.io/badge/EF_Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white"/> <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white"/> </p>
+<p align="left"> <img src="https://img.shields.io/badge/C%23-1a1a1a?style=for-the-badge&logo=csharp&logoColor=white"/> <img src="https://img.shields.io/badge/ASP.NET_Core-1a1a1a?style=for-the-badge&logo=dotnet&logoColor=white"/> <img src="https://img.shields.io/badge/EF_Core-1a1a1a?style=for-the-badge&logo=dotnet&logoColor=white"/> <img src="https://img.shields.io/badge/SQL_Server-1a1a1a?style=for-the-badge&logo=microsoftsqlserver&logoColor=white"/> </p>
 
 Frontend
 
-<p align="left"> <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/> <img src="https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white"/> <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/> <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white"/> <img src="https://img.shields.io/badge/SCSS-CC6699?style=for-the-badge&logo=sass&logoColor=white"/> </p>
+<p align="left"> <img src="https://img.shields.io/badge/React-1a1a1a?style=for-the-badge&logo=react&logoColor=white"/> <img src="https://img.shields.io/badge/Redux-1a1a1a?style=for-the-badge&logo=redux&logoColor=white"/> <img src="https://img.shields.io/badge/TypeScript-1a1a1a?style=for-the-badge&logo=typescript&logoColor=white"/> <img src="https://img.shields.io/badge/Tailwind_CSS-1a1a1a?style=for-the-badge&logo=tailwindcss&logoColor=white"/> <img src="https://img.shields.io/badge/SCSS-1a1a1a?style=for-the-badge&logo=sass&logoColor=white"/> </p>
 
 Tools
 
-<p align="left"> <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/> <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/> <img src="https://img.shields.io/badge/Fork-4C566A?style=for-the-badge"/> <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/> <img src="https://img.shields.io/badge/Neovim-57A143?style=for-the-badge&logo=neovim&logoColor=white"/> <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"/> <img src="https://img.shields.io/badge/Insomnia-4000BF?style=for-the-badge&logo=insomnia&logoColor=white"/> <img src="https://img.shields.io/badge/SSMS-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white"/> </p>
+<p align="left"> <img src="https://img.shields.io/badge/Git-1a1a1a?style=for-the-badge&logo=git&logoColor=white"/> <img src="https://img.shields.io/badge/GitHub-1a1a1a?style=for-the-badge&logo=github&logoColor=white"/> <img src="https://img.shields.io/badge/Fork-1a1a1a?style=for-the-badge"/> <img src="https://img.shields.io/badge/VS_Code-1a1a1a?style=for-the-badge&logo=visualstudiocode&logoColor=white"/> <img src="https://img.shields.io/badge/Neovim-1a1a1a?style=for-the-badge&logo=neovim&logoColor=white"/> <img src="https://img.shields.io/badge/PostgreSQL-1a1a1a?style=for-the-badge&logo=postgresql&logoColor=white"/> <img src="https://img.shields.io/badge/Insomnia-1a1a1a?style=for-the-badge&logo=insomnia&logoColor=white"/> <img src="https://img.shields.io/badge/SSMS-1a1a1a?style=for-the-badge&logo=microsoftsqlserver&logoColor=white"/> </p>
 
 ---
 
@@ -56,4 +56,4 @@ Tools
 
 Open to junior backend / .NET opportunities
 
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=512BD4&height=150&section=footer)
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:2b2b2b,100:0d0d0d&height=150&section=footer)
