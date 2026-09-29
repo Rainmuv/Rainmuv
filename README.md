@@ -34,8 +34,6 @@ Tools
 ### ⏱ Weekly Coding Activity
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue?style=for-the-badge)
-
 
 <!--END_SECTION:waka-->
 
