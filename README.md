@@ -48,11 +48,6 @@ JSON                     4 mins              █░░░░░░░░░░�
 🔥 Editors: 
 VS Code                  3 hrs 26 mins       █████████████████████████   100.00 % 
 
-🐱‍💻 Projects: 
-CryptoScreener           3 hrs 13 mins       ███████████████████████░░   93.63 % 
-TrackerExpenses          12 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.07 % 
-TrakerExpens             0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.30 % 
-
 💻 Operating System: 
 Windows                  3 hrs 26 mins       █████████████████████████   100.00 % 
 ```
