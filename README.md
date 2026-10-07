@@ -34,30 +34,27 @@ Tools
 ### ⏱ Weekly Coding Activity
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-3%20hrs%2059%20mins-blue?style=for-the-badge)
+![Code Time](http://img.shields.io/badge/Code%20Time-6%20hrs%2041%20mins-blue?style=for-the-badge)
 
 📊 **This Week I Spent My Time On** 
 
 ```text
 💬 Programming Languages: 
-C#                       2 hrs 26 mins       ████████████████████░░░░░   81.53 % 
-Git Config               12 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.74 % 
-XML                      7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.17 % 
-JSON                     7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.17 % 
-SQL                      6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.40 % 
+C#                       3 hrs 2 mins        ██████████████████████░░░   88.36 % 
+Git Config               12 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.87 % 
+XML                      7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.63 % 
+JSON                     4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.14 % 
 
 🔥 Editors: 
-VS Code                  2 hrs 59 mins       █████████████████████████   100.00 % 
+VS Code                  3 hrs 26 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-TrackerExpenses          1 hr 51 mins        ███████████████░░░░░░░░░░   61.89 % 
-CryptoScreener           31 mins             ████░░░░░░░░░░░░░░░░░░░░░   17.73 % 
-MyMauiApp                17 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.49 % 
-CoffeeShift              15 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.47 % 
-gondon                   3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.84 % 
+CryptoScreener           3 hrs 13 mins       ███████████████████████░░   93.63 % 
+TrackerExpenses          12 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.07 % 
+TrakerExpens             0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.30 % 
 
 💻 Operating System: 
-Windows                  2 hrs 59 mins       █████████████████████████   100.00 % 
+Windows                  3 hrs 26 mins       █████████████████████████   100.00 % 
 ```
 
 
