@@ -34,22 +34,22 @@ Tools
 ### ⏱ Weekly Coding Activity
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-6%20hrs%2041%20mins-blue?style=for-the-badge)
+![Code Time](http://img.shields.io/badge/Code%20Time-7%20hrs%2058%20mins-blue?style=for-the-badge)
 
 📊 **This Week I Spent My Time On** 
 
 ```text
 💬 Programming Languages: 
-C#                       4 hrs 6 mins        ███████████████████████░░   91.10 % 
-Git Config               12 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.48 % 
-XML                      7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.78 % 
-JSON                     4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.64 % 
+C#                       6 hrs 44 mins       █████████████████████████   98.01 % 
+XML                      7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.82 % 
+Git Config               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.17 % 
+JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔥 Editors: 
-VS Code                  4 hrs 30 mins       █████████████████████████   100.00 % 
+VS Code                  6 hrs 52 mins       █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  4 hrs 30 mins       █████████████████████████   100.00 % 
+Windows                  6 hrs 52 mins       █████████████████████████   100.00 % 
 ```
 
 
