@@ -2,7 +2,8 @@ name: Waka Readme
 
 on:
   workflow_dispatch:
-
+  schedule:
+    - cron: '17 7 * * *'
 jobs:
   update-readme:
     runs-on: ubuntu-latest
