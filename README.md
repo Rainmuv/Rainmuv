@@ -34,23 +34,23 @@ Tools
 ### ⏱ Weekly Coding Activity
 ![Weekly Stats](https://raw.githubusercontent.com/Rainmuv/WakaDash/main/results/day_wise_stats.svg)
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-22%20hrs%2010%20mins-blue?style=for-the-badge)
+![Code Time](http://img.shields.io/badge/Code%20Time-22%20hrs%2011%20mins-blue?style=for-the-badge)
 
 📊 **This Week I Spent My Time On** 
 
 ```text
 💬 Programming Languages: 
-C#                       10 hrs 21 mins      ████████████████████████░   96.48 % 
-JSON                     10 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.66 % 
-TypeScript               10 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.65 % 
-XML                      1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.19 % 
-HTTP                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 % 
+C#                       8 hrs 14 mins       ████████████████████████░   96.95 % 
+TypeScript               10 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.09 % 
+JSON                     3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.70 % 
+XML                      1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.24 % 
+HTTP                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 % 
 
 🔥 Editors: 
-VS Code                  10 hrs 44 mins      █████████████████████████   100.00 % 
+VS Code                  8 hrs 29 mins       █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  10 hrs 44 mins      █████████████████████████   100.00 % 
+Windows                  8 hrs 29 mins       █████████████████████████   100.00 % 
 ```
 
 
