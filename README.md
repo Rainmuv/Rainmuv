@@ -34,7 +34,7 @@ Tools
 ### ⏱ Weekly Coding Activity
 ![Weekly Stats](https://raw.githubusercontent.com/Rainmuv/WakaDash/main/results/day_wise_stats.svg)
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-29%20hrs%201%20min-blue?style=for-the-badge)
+![Code Time](http://img.shields.io/badge/Code%20Time-29%20hrs%2034%20mins-blue?style=for-the-badge)
 
 📊 **This Week I Spent My Time On** 
 
