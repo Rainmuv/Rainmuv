@@ -40,14 +40,14 @@ Tools
 
 ```text
 💬 Programming Languages: 
-C#                       8 hrs 39 mins       █████████████████████████   99.97 % 
+C#                       7 hrs 44 mins       █████████████████████████   99.97 % 
 JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 % 
 
 🔥 Editors: 
-VS Code                  8 hrs 39 mins       █████████████████████████   100.00 % 
+VS Code                  7 hrs 44 mins       █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  8 hrs 39 mins       █████████████████████████   100.00 % 
+Windows                  7 hrs 44 mins       █████████████████████████   100.00 % 
 ```
 
 
